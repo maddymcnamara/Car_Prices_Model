@@ -57,27 +57,6 @@ This project aims to predict car selling prices using a large dataset of car cha
 - Random Forest performed the best with the highest R² and lowest RMSE.
 - Features like car age, odometer, and make were the most important drivers of selling price.
 
-## Visualizations
-- **Selling Price Distribution**
-![Selling Price Distribution](images/sellingprice_distribution.png)
-
-- **Correlation Heatmap**
-![Correlation Matrix](images/correlation_matrix.png)
-
-- **Odometer vs Selling Price by Make**
-![Odometer vs Selling Price](images/odometer_vs_price.png)
-
-- **Top 20 Feature Importances (Random Forest)**
-![Feature Importances](images/feature_importances.png)
-
-- **Random Forest: Actual vs Predicted Prices**
-![Actual vs Predicted](images/actual_vs_predicted.png)
-
-- **Residuals Distribution**
-![Residuals Distribution](images/residuals_distribution.png)
-
-> *Note: Images should be saved in an `images/` folder within the repo for display.*
-
 ## Libraries & Tools
 - **Python:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Tools:** Jupyter Notebook, Git/GitHub  
